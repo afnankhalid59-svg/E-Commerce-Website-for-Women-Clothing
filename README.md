@@ -62,12 +62,22 @@ ecommerce-project/
 
 ## 📸 Screenshots
 
-
+Homepage
 ![Homepage](screenshot/homepage.png)
+
+Catalogue
 ![Catalogue](screenshot/catalogue.png)
+
+Product Page
 ![Product_Page](screenshot/product.png)
+
+Cart
 ![Cart](screenshot/cart.png)
+
+Login
 ![Login](screenshot/login.png)
+
+Register
 ![Register](screenshot/register.png)
 
 ---
